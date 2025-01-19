@@ -12,3 +12,8 @@ faucet addrs
 5、https://sepolia-faucet.pk910.de/ 这个是挖水，挂着就一直挖，够用了就按停止 需要passport
 
 6、https://www.alchemy.com/faucets/ethereum-sepolia 领水
+
+
+项目：
+https://sidequest.rcade.game/quests
+https://app-testnet.yala.org/welcome/
