@@ -17,3 +17,4 @@ faucet addrs
 项目：
 https://sidequest.rcade.game/quests
 https://app-testnet.yala.org/welcome/
+https://task.testnet.mangonetwork.io
