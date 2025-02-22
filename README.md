@@ -18,3 +18,4 @@ faucet addrs
 https://sidequest.rcade.game/quests
 https://app-testnet.yala.org/welcome/
 https://task.testnet.mangonetwork.io
+https://app.nexus.xyz/
